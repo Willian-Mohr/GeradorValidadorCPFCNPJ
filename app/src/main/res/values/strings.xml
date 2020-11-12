@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gerador e validador de CPF/CNPJ</string>
+    <string-array name="tipoDocumento">
+        <item>CPF</item>
+        <item>CNPJ</item>
+    </string-array>
+    
+    
+</resources>
